@@ -1,0 +1,54 @@
+body{
+    background-color: brown;
+    color: white;
+}
+
+button{
+    padding: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    border-style: groove;
+    border-radius: 10px;
+}
+
+#cabecera, #barra-lateral, #contenido, #pie{
+    border-color: blue;
+    border-width: thin;
+    border-style: groove;
+    border-radius: 10px; 
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: azure
+}
+
+#cabecera{
+    align-content: center;
+}
+#barra-lateral{
+    float: left;
+    width: 200px;
+    height: 400px;
+    overflow: auto;
+}
+
+#contenido{
+    overflow: auto;
+    height: 400px;
+}
+
+#pie{
+    overflow: hidden;
+    height: auto;
+}
+
+#contenedor{
+    height: 100%;
+    color: red;
+}
+
+#table{
+    border-style: solid;
+    border-radius: 5px;
+}
