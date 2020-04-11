@@ -1,13 +1,14 @@
 body{
     background-color: brown;
     color: white;
+    font-family: sans-serif;
 }
 
 button{
     padding: 5px;
     padding-left: 10%;
     padding-right: 10%;
-    
+    margin: 5px;
     border-style: groove;
     border-radius: 10px;
 }
@@ -35,7 +36,7 @@ button{
 
 #contenido{
     overflow: auto;
-    height: 400px;
+    height: 100%;
 }
 
 #pie{
