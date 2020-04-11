@@ -69,14 +69,14 @@ button{
 }
 #barra-lateral{
     float: left;
-    width: 200px;
+    width: 20%;
     height: 400px;
-    overflow: auto;
 }
 
 #contenido{
-    overflow: hidden;
+    float : left;
     height: 100%;
+    width: 77%;
     margin-left: 10px;
 }
 #contenido h3{
@@ -84,6 +84,7 @@ button{
 }
 
 #pie{
+    clear: both;
     margin-top: 10px;
     height: 100%;
     
@@ -100,6 +101,7 @@ button{
 
 #contenedor{
     height: 100%;
+    width: 100%;
     color: #333;
 }
 
