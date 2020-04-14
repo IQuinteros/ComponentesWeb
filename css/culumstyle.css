@@ -3,4 +3,11 @@
 }
 #curr-table tr td{
     padding: 10px;
+    border-style: groove;
+    border-radius: 5px;
+}
+
+#profimg{
+    width: 50%;
+    background-color: #333;
 }
