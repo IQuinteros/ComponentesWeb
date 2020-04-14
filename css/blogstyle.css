@@ -2,10 +2,24 @@
     
 }
 
+.box{
+    background-color: azure;
+    padding: 1em;
+    margin: 5px;
+}
+
+#menu{
+    float: left;
+    overflow: hidden;
+}
+
 #panel{
-    
 }
 
 #footer{
+    background-color: #333;
+    color: white;
+    padding: 0.5em;
     
+    margin-top: 10px;
 }
