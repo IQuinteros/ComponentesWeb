@@ -31,12 +31,15 @@ body h1{
 }
 
 button{
+    border-style: groove;
+    border-radius: 10px;
+}
+
+#barra-lateral button{
     padding: 5px;
     padding-left: 10%;
     padding-right: 10%;
     margin: 5px;
-    border-style: groove;
-    border-radius: 10px;
 }
 
 #barra-lateral, #contenido, #pie{
